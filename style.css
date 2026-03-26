@@ -1,0 +1,32 @@
+.main {
+    background-color: #f7f9fc;
+}
+
+.metric-card {
+    background: white;
+    padding: 20px;
+    border-radius: 16px;
+    box-shadow: 0px 4px 12px rgba(0,0,0,0.08);
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.metric-title {
+    font-size: 18px;
+    color: #444;
+    font-weight: 600;
+}
+
+.metric-value {
+    font-size: 28px;
+    color: #0B5ED7;
+    font-weight: bold;
+}
+
+.section-box {
+    background: white;
+    padding: 18px;
+    border-radius: 16px;
+    box-shadow: 0px 4px 12px rgba(0,0,0,0.06);
+    margin-bottom: 20px;
+}
